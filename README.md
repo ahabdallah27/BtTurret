@@ -7,6 +7,12 @@
 # Description
 This updates the IR Turret Hackpack box by Mark Rober (https://www.crunchlabs.com/products/ir-turret) to a bluetooth controlled turret for a more reliable connection. It uses an Android phone running an app that connects to a bluetooth module added to control the turret. The Android app is simple and should easily be able to be ported to iOS.
 
+<img width="300" alt="Wiring Table" src="https://github.com/ahabdallah27/BtTurret/assets/37941857/10260ce5-9a0c-49a7-b25d-ea057f9ebbee"> <img width="300" alt="Wiring Table" src="https://github.com/ahabdallah27/BtTurret/assets/37941857/d49f3c10-fa2f-41fc-b408-6fbca5a9d228">
+
+https://github.com/ahabdallah27/BtTurret/assets/37941857/8c027c58-097d-4897-96ec-1ae5174ce288
+
+https://github.com/ahabdallah27/BtTurret/assets/37941857/df870312-cf66-45bd-95f0-8371c0d57e7f
+
 # Required Materials/Sensors
 * 1 MG90S 360 degree servo motor (metal) to replace the plastic yaw servo motor
 * 1 HC-06 (or HC-05) Bluetooth module
@@ -37,6 +43,9 @@ This updates the IR Turret Hackpack box by Mark Rober (https://www.crunchlabs.co
 13. Power the Arduino Nano (connection to the power bank) and Motor Driver (connection to the 9V battery).
 14. Open the Android app and hit “Connect Bluetooth”.
 15. The Bluetooth module should show up in a toast message on the bottom of the app if it successfully connected. Once, it’s connected, move the sliders on top to update the speeds of the motors and tap/hold the buttons to actuate the turret.
+
+<img width="604" alt="Wiring Table" src="https://github.com/ahabdallah27/BtTurret/assets/37941857/9c9fd804-a491-49bb-a6ff-8250022dee42">
+
 
 # Additional Notes
 * Some 9V Battery boxes have switches which may be more convenient than removing one of the clips from the 9V battery.
