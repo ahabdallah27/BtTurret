@@ -1,8 +1,8 @@
 # Folder/File descriptions
-* BluetoothTurretControl is the Android code<br>
-* BtTurret is the Arduino code<br>
-* ServoMotorCalibration is the Arduino Servo Motor calibration code<br>
-* To directly load the Android app to your phone, download and install "Bluetooth Turret Control.apk" on your Android phone. Use https://www.androidauthority.com/how-to-install-apks-31494/ for reference to install apps from apk files<br>
+* BluetoothTurretControl is the Android code
+* BtTurret is the Arduino code
+* ServoMotorCalibration is the Arduino Servo Motor calibration code
+* Bluetooth Turret Control.apk is the file to download and install the Android app to your phone. Use https://www.androidauthority.com/how-to-install-apks-31494/ for reference to install apps from apk files
 
 # Description
 This updates the IR Turret Hackpack box by Mark Rober (https://www.crunchlabs.com/products/ir-turret) to a bluetooth controlled turret for a more reliable connection. It uses an Android phone running an app that connects to a bluetooth module added to control the turret. The Android app is simple and should easily be able to be ported to iOS.
