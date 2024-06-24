@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bluetooth Turret Control</string>
+
+    <string name="bt_connect">Connect Bluetooth</string>
+    <string name="bt_disconnect">Disconnect Bluetooth</string>
+
+    <string name="base_movement_progress">100</string>
+    <string name="base_movement_name">Rotation Speed</string>
+
+    <string name="arm_movement_progress">1</string>
+    <string name="arm_movement_name">Vertical Speed</string>
+
+    <string name="fire_movement_progress">100</string>
+    <string name="fire_movement_name">Fire</string>
+    <string name="fire_all_movement_name">Fire All</string>
+
+    <string name="left_movement_name">left</string>
+    <string name="right_movement_name">right</string>
+
+    <string name="up_movement_name">up</string>
+    <string name="down_movement_name">down</string>
+
+</resources>
