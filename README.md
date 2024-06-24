@@ -9,9 +9,9 @@ This updates the IR Turret Hackpack box by Mark Rober (https://www.crunchlabs.co
 
 <img width="300" alt="Wiring Table" src="https://github.com/ahabdallah27/BtTurret/assets/37941857/10260ce5-9a0c-49a7-b25d-ea057f9ebbee"> <img width="300" alt="Wiring Table" src="https://github.com/ahabdallah27/BtTurret/assets/37941857/d49f3c10-fa2f-41fc-b408-6fbca5a9d228">
 
-https://github.com/ahabdallah27/BtTurret/assets/37941857/8c027c58-097d-4897-96ec-1ae5174ce288
-
 https://github.com/ahabdallah27/BtTurret/assets/37941857/4109c6d9-5079-45fb-b58e-64f49e58501b
+
+https://github.com/ahabdallah27/BtTurret/assets/37941857/de377eff-3b05-455b-b56f-fe549a9f80e5
 
 # Required Materials/Sensors
 * 1 MG90S 360 degree servo motor (metal) to replace the plastic yaw servo motor
