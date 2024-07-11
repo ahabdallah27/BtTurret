@@ -24,8 +24,8 @@ https://github.com/ahabdallah27/BtTurret/assets/37941857/de377eff-3b05-455b-b56f
 * Breadboard
 
 # Required Tools
-* Screwdriver (included in Backpack should work
-* Electrical Ttape
+* Screwdriver (included in Hackpack should work)
+* Electrical Tape
 
 # Assembly Instructions
 1. Remove the original IR sensor as that is no longer needed.
